@@ -1,1 +1,1 @@
-# CompleteReponsiveWebDesginCourse
+# CompleteResponsiveWebDesginCourse
